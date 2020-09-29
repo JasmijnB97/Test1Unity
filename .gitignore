@@ -81,7 +81,3 @@ Test1Unity/.vscode/
  *.pidb
  *.booproj
  *.DS_store
-
-### Unignore ###
-!Test1Unity/Library/CurrentLayout-default.dwlt
-
