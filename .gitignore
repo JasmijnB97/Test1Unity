@@ -59,6 +59,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 ### Directories ###
+Test1Unity/Library/
 Test1Unity/Library/*
 Test1Unity/Temp/
 Test1Unity/Obj/
